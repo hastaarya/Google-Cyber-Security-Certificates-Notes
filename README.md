@@ -36,8 +36,4 @@ This repository contains my personal study notes and summaries from the Google C
 
 ---
 
-**📞 Connect with me:** [Your LinkedIn/GitHub profiles]  
-**📧 Email:** [Your email]  
-**🔗 Portfolio:** [Your portfolio link]
-
-*Last updated: [Current Date]*
+*Last updated: 20 Oct 2025*
